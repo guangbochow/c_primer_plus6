@@ -1,2 +1,2 @@
-# c_primer_plus6
-&lt;c_primer_plus6>学习仓库
+# c++_primer
+&lt;c++_primer>学习仓库
